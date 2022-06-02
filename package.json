@@ -1,0 +1,11 @@
+{
+  "name": "viewwebpage",
+  "version": "1.0.0",
+  "description": "A DevOps boards extension that can be used to view a webpage at a dynamic url.",
+  "author": "fulfilmentcrowd",
+  "license": "MIT",
+  "keywords": [],
+  "dependencies": {
+    "vss-web-extension-sdk": "^5.141.0"
+  }
+}
